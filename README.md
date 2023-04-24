@@ -13,7 +13,7 @@
 </ul>
 <img src="./css/Screenshot_2.png" />
 
-## CSS
+## Javascript
 <ul>
   <li><a href="./Javascript/Elias Sbehat_656321.pdf" target="_blank">Certificated PDF</a></li>
   <li><a href="./Javascript/Elias Sbehat_656321 (1).pdf" target="_blank">Record PDF</a></li>
