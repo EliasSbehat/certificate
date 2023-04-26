@@ -48,6 +48,13 @@
 </ul>
 <img src="./resources/php/Screenshot_2.png" />
 
+## Laravel
+<ul>
+  <li><a href="./resources/laravel/Elias Sbehat_656925 (1).pdf" target="_blank">Certificated PDF</a></li>
+  <li><a href="./resources/laravel/Elias Sbehat_656925.pdf" target="_blank">Record PDF</a></li>
+</ul>
+<img src="./resources/laravel/Screenshot_1.png" />
+
 ## NodeJs
 <ul>
   <li><a href="./resources/nodejs/Elias Sbehat_656440.pdf" target="_blank">Certificated PDF</a></li>
